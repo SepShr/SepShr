@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sepehr!
 - 👀 I’m interested in Safe and Innovative Technologies.
-- 🌱 I’m currently learning, well, many things! :D Including coevolutionary search and simulation-based safety analysis of ML-enabled autonomous systems!
+- 🌱 I’m currently learning ... well, many things! Including coevolutionary search and simulation-based safety analysis of ML-enabled autonomous systems!
 - 📫 You can reach me via sshar190@uottawa.ca
 
 <!---
