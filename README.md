@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sepehr!
-- 👀 I’m interested in safety of autonomous systems.
+- 👀 I’m interested in making autonomous systems safer.
 <!-- - 🌱 I’m currently learning ... well, many things! Including coevolutionary search and simulation-based safety analysis of ML-enabled autonomous systems! -->
 - 📫 You can reach me via s.sharifi@uottawa.ca
 
